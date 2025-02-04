@@ -11,6 +11,6 @@ KT AIVLE SCHOOL에서 진행한 프로젝트입니다. Python 언어로 악성 �
 - 모델 최적
 
 ## 기술 스택
-- Language : Python
-- Library : Pandas, Numpy, Tensorflow, Matplotlib, Seaborn, Sklearn
-- Tool : Colab(Jupyter Notebook)
+- **Language** : Python
+- **Library** : Pandas, Numpy, Tensorflow, Matplotlib, Seaborn, Sklearn
+- **Tool** : Colab(Jupyter Notebook)
